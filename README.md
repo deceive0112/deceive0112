@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deceive0112
 - 👀 I’m interested in programming or software things and also hardware parts.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Java, JavaScript, and Kotlin
 - 💞️ I’m looking to collaborate on any thing
 - 📫 How to reach me ...
 
