@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any thing
 - 📫 How to reach me ...
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deceive0112&theme=nightfox)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ecru-tau.vercel.app?user=deceive0112&theme=carbonfox)](https://git.io/streak-stats)
